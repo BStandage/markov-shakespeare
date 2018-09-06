@@ -1,0 +1,2 @@
+# Add an exception for this folder from the root .htaccess file
+Allow from all
